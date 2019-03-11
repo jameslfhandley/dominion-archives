@@ -1,0 +1,16 @@
+this is the training exercise where the candidate was asked to create an Address Book Web application.
+The technology used to create it was PHP and MySQL.
+
+the 'connect.php' must be adjusted to configure the data base values.
+
+the database structure is contained in the 'export.sql file'
+
+the two already existing accounts that the viewer can use to login are:
+user : test@mail.com
+password : origin123 
+      AND
+user : towens@mail.com
+password : test123
+
+12:49 PM 2019-03-08
+James H
